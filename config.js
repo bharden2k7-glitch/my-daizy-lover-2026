@@ -9,7 +9,7 @@ const CONFIG = {
 
     // The title that appears in the browser tab
     // You can use emojis! 💝 💖 💗 💓 💞 💕
-    pageTitle: "Will You Be My Valentine baby? 💝",
+    pageTitle: "Will You Be My Valentine mi amor? 💝",
 
     // Floating emojis that appear in the background
     // Find more emojis at: https://emojipedia.org
@@ -22,7 +22,7 @@ const CONFIG = {
     // Customize each question and its possible responses
     questions: {
         first: {
-            text: "Do you like me?",                                    // First interaction
+            text: "Do you like me? PLAY MUSIC AT TOP (hope u like the song bae)",                                    // First interaction
             yesBtn: "Yes",                                             // Text for "Yes" button
             noBtn: "No",                                               // Text for "No" button
             secretAnswer: "I don't like you, I love you! ❤️"           // Secret hover message
@@ -42,15 +42,15 @@ const CONFIG = {
     // Love meter messages
     // They show up depending on how far they slide the meter
     loveMessages: {
-        extreme: "WOOOOW You love me that much?? 🥰🚀💝",  // Shows when they go past 5000%
-        high: "To infinity and beyond! 🚀💝",              // Shows when they go past 1000%
-        normal: "And beyond! 🥰"                           // Shows when they go past 100%
+        extreme: "WOOOOW THAT MUCH LIL MAMA? 🥰🚀💝",  // Shows when they go past 5000%
+        high: "COME ON MOREEE! 🚀💝",              // Shows when they go past 1000%
+        normal: "a lotttttt! 🥰"                           // Shows when they go past 100%
     },
 
     // Messages that appear after they say "Yes!"
     celebration: {
         title: "You make me the happiest person in the world love💖💝",
-        message: "When you come down to miami I will give you a big hug and kiss!",
+        message: "I cant wait to see you when you come down I love you so much baby!",
         emojis: "💋❤️💕"  // These will bounce around
     },
 
